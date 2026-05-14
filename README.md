@@ -21,4 +21,6 @@ Full Stack Developer | Node.js · Angular · MERN · MSSQL
 - 🔗 Swar Setu — Accessible digital library for visually impaired (React, Flask, Bhashini)
 - 🔗 SQL Syntax Checker — Real-time SQL validation tool (HTML, JS, Python)
 
-📫 atharvawork.3@gmail.com · linkedin.com/in/atharva-dighe1
+📫 atharvawork.3@gmail.com 
+linkedin.com/in/atharva-dighe1
+hackerrank.com/profile/atharvawork_3

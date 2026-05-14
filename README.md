@@ -6,10 +6,16 @@ Full Stack Developer | Node.js · Angular · MERN · MSSQL
 - Leave & Attendance Management System (LMS) — Node.js, Angular, MS SQL — at Nuevas Technologies
 
 ### 💼 Tech stack
+
+**Languages:**  C, Java, Python, JavaScript, TypeScript
+
 **Frontend:** Angular, ReactJS, TypeScript, HTML5, CSS3, Bootstrap, Tailwind CSS
+
 **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
+
 **Databases:** MSSQL, MySQL, MongoDB, T-SQL, PL/SQL
-**Tools:** Git, GitLab, Postman, Docker
+
+**Tools:** Git, GitLab, Postman, Docker, CI/CD, Agile
 
 ### 📌 Featured projects
 - 🔗 Swar Setu — Accessible digital library for visually impaired (React, Flask, Bhashini)

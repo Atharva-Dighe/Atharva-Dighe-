@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer | Node.js · Angular · MERN · MSSQL <br><br>Building production-ready web applications<br><br>📍 Pune, India
+Full Stack Developer | Java · Python · Node.js · Angular · MERN · MSSQL <br><br>Building production-ready web applications<br><br>📍 Pune, India
 
 
 ## 🌐 Socials:
